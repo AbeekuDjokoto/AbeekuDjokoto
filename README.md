@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abeekudjokoto" target="blank"><img src="https://img.shields.io/twitter/follow/abeekudjokoto?logo=twitter&style=for-the-badge" alt="abeekudjokoto" /></a> </p>
 
-- 🔭 I’m currently working on [a Book store landing page](https://github.com/AbeekuDjokoto/Bootstrap.git)
+- 🔭 I’m currently working on [an E-Wallet App](https://github.com/Ssalma/wallet_app.git)
 
 - 🌱 I’m currently learning **Vue.js, Bootstrap & JavaScript**
 
