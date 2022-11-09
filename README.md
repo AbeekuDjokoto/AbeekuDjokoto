@@ -1,4 +1,4 @@
-[![MasterHead](https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2020/07/Blog_Front-End-Portfolio.jpg)
+(https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2020/07/Blog_Front-End-Portfolio.jpg)
 <h1 align="center">Hi 👋, I'm Abeeku Djokoto</h1>
 <h3 align="center">A passionate frontend developer from Ghana</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e476d6jeo72qvx4eofm8zuepzchxwjsxwkrfpnibblw&rid=giphy.gif&ct=g">
