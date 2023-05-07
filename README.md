@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [an E-Wallet App](https://github.com/Ssalma/wallet_app.git)
 
-- 🌱 I’m currently learning **Vue.js, Bootstrap & JavaScript**
+- 🌱 I’m currently learning **React, typeScript & JavaScript**
 
 - 🤝 I’m looking for help with **JavaScript**
 
